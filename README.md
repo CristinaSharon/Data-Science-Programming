@@ -11,6 +11,12 @@
 
 # Week 2-228 holidy
 * At Home
-1. 
-2. 
-3.  
+1. HW0 example code flowchart
+
+![image](https://github.com/CristinaSharon/Data-Science-Programming/blob/master/Sample%20Code%20Diagram.png)
+
+# Week 3
+* In Class
+
+* At Home
+
